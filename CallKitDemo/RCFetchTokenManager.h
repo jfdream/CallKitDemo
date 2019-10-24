@@ -8,10 +8,10 @@
 
 #import <Foundation/Foundation.h>
 
-
-#define RCIMAPPKey @"z3v5yqkbv8v30"
+// 下面天使您的 AppKey 和 secret 即可
+#define RCIMAPPKey @""
 #define RCIM_Navi @"nav.cn.ronghub.com"
-#define RCIM_API_SECRET @"aL1VbnQdzNII8v"
+#define RCIM_API_SECRET @""
 #define RCIM_API_SERVER @"http://api-cn.ronghub.com"
 
 // 以下宏定义为大乔环境
